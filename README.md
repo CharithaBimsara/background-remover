@@ -19,7 +19,7 @@ A powerful and user-friendly web application to remove backgrounds from images i
 ## Live Demo 🌐
 
 Check out the live version of the app:  
-👉 [https://bg-remover.vercel.app](https://easybgremover.vercel.app) <!-- Replace with your Vercel URL -->
+👉 [BG Remover](https://easybgremover.vercel.app) <!-- Replace with your Vercel URL -->
 
 ---
 
