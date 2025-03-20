@@ -46,8 +46,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/bg-remover.git
-   cd bg-remover
+   git clone https://github.com/CharithaBimsara/background-remover.git
+   cd background-remover
    ```
 2. **Install Dependencies:**
 
