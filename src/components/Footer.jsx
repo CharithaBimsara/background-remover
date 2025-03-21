@@ -50,7 +50,7 @@ function Footer() {
               href="mailto:contact@bgremover.com"
               className="inline-block mt-2 text-pink-300 hover:text-white hover:underline transition-all duration-300"
             >
-              contact@bgremover.com
+              charithabimsara@gmail.com
             </a>
           </div>
         </div>
